@@ -1,0 +1,6 @@
+venv
+node_modules
+**/migrations/*
+**/__pycache__/
+back-end/mazzeh/db.sqlite3
+!**/migrations/__init__.py
